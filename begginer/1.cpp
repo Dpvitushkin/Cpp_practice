@@ -3,5 +3,6 @@
 int main()
 {
     std::cout<<"Hello"<<std::endl;
+    std::cout<<"123";
     
 }

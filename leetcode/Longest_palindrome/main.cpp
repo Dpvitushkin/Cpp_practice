@@ -17,7 +17,20 @@ std::string fill_str_chet(std::string str)
     std::string tmp;
     for(int i=str.size()-1;i>1;i--)
     {
-        tmp+=str[i];
+        while(1)
+        {
+            try
+            {
+                
+            }
+            catch(...)
+            {
+                
+            }
+            
+
+
+        }
     }
 
     return tmp+str;
